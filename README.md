@@ -1,5 +1,5 @@
-# TryHackMe WriteUps
-
+# Tryhackme CTFs
+### This repo contains the solved tryhackme CTFs & My methodology on how i approach boxes
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74481173/171990222-4acb320e-7c80-4d89-9844-b413ca56af2a.png" />
+  <img src="https://raw.githubusercontent.com/thehackingsage/TryHackMe/master/TryHackMe.png" />
 </p>
